@@ -1,0 +1,27 @@
+<div class="card-container">
+            <div class="card">
+                <img src="image\108223482.png" alt="Бургер ЕЛЬ-ТОРРО" class="card-image">
+                <h3 class="card-title"><p>Бургер ЕЛЬ-ТОРРО</p></h3>
+                <p class="card-description">Соковите куряче філе та сир крем, булка пшенична з кунжутом, огірок свіжий, салат Айсберг, помідор, соус "Майонез"</p>
+                <p class="card-price">$10.99</p>
+             
+          </div>
+          <div class="card">
+            <img src="image\108223482.png" alt="Бургер ЕЛЬ-ТОРРО" class="card-image">
+            <h3 class="card-title"><p>Бургер ЕЛЬ-ТОРРО</p></h3>
+            <p class="card-description">Соковите куряче філе та сир крем, булка пшенична з кунжутом, огірок свіжий, салат Айсберг, помідор, соус "Майонез"</p>
+            <p class="card-price">$10.99</p>
+         
+         </div>
+         <div class="card">
+             <img src="image\108223482.png" alt="Бургер ЕЛЬ-ТОРРО" class="card-image">
+             <h3 class="card-title"><p>Бургер ЕЛЬ-ТОРРО</p></h3>
+            <p class="card-description">Соковите куряче філе та сир крем, булка пшенична з кунжутом, огірок свіжий, салат Айсберг, помідор, соус "Майонез"</p>
+             <p class="card-price">$10.99</p>
+     
+        </div>
+  <div class="card">
+    <img src="image\108223482.png" alt="Бургер ЕЛЬ-ТОРРО" class="card-image">
+    <h3 class="card-title"><p>Бургер ЕЛЬ-ТОРРО</p></h3>
+    <p class="card-description">Соковите куряче філе та сир крем, булка пшенична з кунжутом, огірок свіжий, салат Айсберг, помідор, соус "Майонез"</p>
+    <p class="card-price">$10.99</p>
